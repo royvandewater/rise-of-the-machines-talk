@@ -28,6 +28,9 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - automation
   - security
   - scalability
+- How Twilio helps solve this problem
+  - a simple and intelligent interface into communications such as sms, mms, and voice
+  - with the help of Octoblu, simple support calls, notifications and two-way interactions can be context aware and automated
 
 # Demo
 
