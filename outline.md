@@ -12,6 +12,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - a network of physical and virtual things
   - smart offices, cars, homes, wearables, and cities  
   - growth and analytics
+- Metrics
+  - **TODO**
 - How IoT affects business communication
   - machine automation
     - machines work 24/7
@@ -31,6 +33,20 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 - How Twilio helps solve this problem
   - a simple and intelligent interface into communications such as sms, mms, and voice
   - with the help of Octoblu, simple support calls, notifications and two-way interactions can be context aware and automated
+- Lessons Learned
+  - be lazy, automate everything that you can
+  - microservices
+  - machines cost very little and will even less, so use them
+  - make the world a better place
+  - let humans do what they do best
+    - be personal
+    - be smart
+    - be creative
+- Impact
+  - save man hours through automation and intelligent workflow
+  - secure interactions between humans and machines
+  - with the power of IoT, we can focus on making the world a better place
+  - smart devices will not only save time but save lives
 
 # Demo
 
