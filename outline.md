@@ -14,7 +14,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - growth and analytics
   - automation
 - Metrics
-  - **TODO**
+  - Today: 1.9B connected devices. 50B estimated by 2020. (only 5 years away)
+  - By 2020, the IoT market value is predicted to be between $3T and $14T
 - How IoT affects business communication
   - machine automation
     - machines work 24/7
@@ -34,6 +35,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 - How Twilio helps solve this problem
   - a simple and intelligent interface into communications such as sms, mms, and voice
   - a practical implementation of simple support calls, notifications and two-way interactions that can be context aware and automated
+  - Twilio is a first class citizen in Octoblu, meaning integrations are seamless.
 - Lessons Learned
   - be lazy, automate everything that you can
   - microservices
