@@ -106,6 +106,7 @@ Total Time Available: 30 minutes (10:15am - 10:45am)
 1. “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.” ~ Kevin Ashton
 2. “Everything that can be automated, will be automated.” ~ Robert Cannon
 3. “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.” ~ Bill Gates
+
 # Demo
 
 Auto-respond to tweets based on sentiment analysis and notifying support about the issue
