@@ -23,8 +23,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - devices that know what you want before you want it
     - a few examples
     - when you walk into a room, turn the hue lights on
-    - when you leave town, turn off the thermostat
-    - when you walk into the office turn the tv on, turn lights on, notify those involved
+    - when the temperature becomes cold outside, adjust the thermostat, and send notify me
+    - when you walk into the conference room, turn lights on, put my presentation on the screen, notify my late coworkers
     - when your vital signs are showing issues, schedule an appointment with your doctor or notify a response unit
   - a network of physical and virtual things
   - automation
