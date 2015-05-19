@@ -45,14 +45,14 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - machines work 24/7
     - machines are cheap
   - human interaction
-    - humans will be the source of creativity and personality, machines will handle the rest
+    - humans are the source of creativity and personality, machines will handle the rest
   - machine learning
     - anomaly detection
     - event prediction
     - context aware systems
   - it is about the experience
-- How Octoblu helps solve this problem
-  - a platform, or operating system, designed to orchestrate internet connected devices and services
+- What is Octoblu and how does it solve this problem
+  - a platform, and network of services, designed to orchestrate internet connected devices and services
   - connecting everything to everything
   - talking to devices and services is hard, and often point to point, we make it easy.
   - automation
@@ -98,7 +98,9 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - smart devices will not only save time but save lives
     - uberemt
     - smarter police, being view the world through sensors and make the best, safest decision
+  - there is a lot of room for improvement on how your homes, cities, office and cars operate
 - Demo
+  - auto-respond to tweets based on sentiment analysis and notifying support about the issue
 - Questions
 
 # Timing
