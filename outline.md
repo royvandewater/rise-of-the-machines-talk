@@ -14,8 +14,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - devices, services and people working together to make the world better
   - smart offices, cars, homes, wearables, and cities
     - hue light bulbs
-    - nest, an internet connect light bulb
-    - amazon echo, a personal information hub
+    - nest, an internet connect thermostat
+    - amazon echo, a personal information and home automation hub
     - wearables such as the apple watch, moto 360, fitbit, and myo
     - the amount of these types of devices are growing at incredible rate.
   - The MIT pioneer, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
