@@ -12,13 +12,13 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 
 - **What is the Internet of Things?**
   - devices, services and people working together to make the world better
-  - The MIT pioneer, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
   - smart offices, cars, homes, wearables, and cities
     - hue light bulbs
     - nest, an internet connect light bulb
     - amazon echo, a personal information hub
     - wearables such as the apple watch, moto 360, fitbit, and myo
     - the amount of these types of devices are growing at incredible rate.
+  - The MIT pioneer, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
   - device intelligence
     - devices that know what you want before you want it
     - a few examples
@@ -27,12 +27,12 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - when you walk into the office turn the tv on, turn lights on, notify those involved
     - when your vital signs are showing issues, schedule an appointment with your doctor or notify a response unit
   - a network of physical and virtual things
-  - growth and analytics
-    - big data and I mean big data, petabytes of information transmitted
-    - realtime view into the inner-workings of the machines
   - automation
     - IoT is about making things more efficient and automation plays a huge roll in that
     - Webster Dictionary defines automation to be "the technique of making an apparatus, a process, or a system operate automatically"
+  - growth and analytics
+    - big data and I mean big data, petabytes of information transmitted
+    - realtime view into the inner-workings of the machines
   - IoT, will be the next industrial revolution. Billions of dollars will be saved, trillions will be made.
 - **Metrics**
   - Today: 1.9B connected devices. 50B estimated by 2020.
@@ -42,17 +42,18 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - By 2020, the IoT market value is predicted to be between $3T and $14T
     - says IoT analysts
     - whether you want it or not, it is coming
+  - if IoT improved efficiency by %1, over $276B would be saved
 - **How IoT affects business communication**
   - it is about the experience
   - machine automation
     - Robert Cannon, an internet law and policy expert, says “Everything that can be automated, will be automated.”
     - because machines work 24/7 and are getting cheaper and faster
-  - human interaction
-    - humans are the source of creativity and personality, but machines can be a great tool
   - machine learning
     - anomaly detection
     - event prediction
     - context aware systems
+  - human interaction
+    - humans are the source of creativity and personality, but machines can be a great tool
 - **What is Octoblu and how does it solve this problem**
   - a platform, and network of services, designed to orchestrate devices and services
   - citrix CEO, Mark Templeton, calls us the Integration of Everything
@@ -68,6 +69,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - 80% of our platform is open source
     - we have roughly 240 open source repositories
 - **How Twilio helps solve this problem**
+  - with the rise of machines how do humans communicate?
   - a simple and intelligent interface into communications such as sms, mms, and voice
   - a practical implementation of simple support calls, notifications and two-way interactions that can be context aware and automated
   - Twilio is a first class citizen in Octoblu, meaning integrations are seamless.
@@ -88,14 +90,13 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - be personal
     - be smart
     - be creative
-  - we work as a team at octoblu. We believe that people create better things when working side by side and interacting directly with users.
-  - automated testing
-    - continuous deployment
+  - another thing we learned was automated testing
+    - continuous deployment and integration tests
 - **Impact**
-  - save man hours through intelligent systems, where the machines take control
+  - save man hours through intelligent systems
   - secure and personal interactions between humans and machines
-    - the internet of things will diminish if it is secure.
-    - people need the right kind of privacy
+    - the internet of things will diminish if it is not secure.
+  - imagine a secure system where privacy and security is the first priority
   - with the power of IoT, we can focus on making the world a better place
   - smart devices will not only save time but save lives
     - uberemt
