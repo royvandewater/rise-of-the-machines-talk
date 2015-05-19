@@ -10,8 +10,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 
 # Talking Points
 
-- **Who here knows what IoT is?**
-  - what is the Internet of Things?
+- **What is the Internet of Things?**
   - devices, services and people working together to make the world better
   - The MIT pioneer, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
   - smart offices, cars, homes, wearables, and cities
