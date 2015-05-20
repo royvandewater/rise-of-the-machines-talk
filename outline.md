@@ -6,7 +6,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 
 # Talking Points
 
-**[!!!]** Welcome to the Rise of the Machines.
+- **[!!!]** Welcome to the Rise of the Machines.
 
 - **[!!!]** **What is the Internet of Things?**
   - devices, services and people working together to make the world better
