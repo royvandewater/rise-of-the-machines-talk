@@ -106,6 +106,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - auto-respond to tweets based on sentiment analysis and notifying support and responding to the issue
   - add a simple light to the mix
 - **Questions**
+
 # Quotes
 
 1. “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.” ~ Kevin Ashton
