@@ -17,8 +17,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - amazon echo, a personal information and home automation hub
     - wearables such as the apple watch, moto 360, fitbit, and myo
     - the amount of these types of devices are growing at incredible rate.
-  - **[!!!]** The MIT pioneer, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
-  - device intelligence
+  - **[!!!]** the MIT graduate, Kevin Ashton, who is said to be the father of IoT, said “The Internet of Things has the potential to change the world, just as the internet did. Maybe even more so.”
+  - **[!!!]** device intelligence
     - devices that know what you want before you want it
     - a few examples could be:
     - when you walk into a room, turn the hue lights on
