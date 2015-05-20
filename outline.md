@@ -99,13 +99,17 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - be personal
     - be smart
     - be creative
-  - another thing we learned was automated testing
-    - continuous deployment and integration tests
 - **[!!!]**
 - **Demo**
   - auto-respond to tweets based on sentiment analysis and notifying support and responding to the issue
   - add a simple light to the mix
 - **Questions**
+- **Extras**
+  - Amazon Echo
+  - Speech to Flow
+  - How to get started
+- **[!!!]**
+
 
 # Quotes
 
