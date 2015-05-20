@@ -85,7 +85,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - with the power of IoT, we can focus on making the world a better place
   - smart devices will not only save time but save lives
     - uberemt
-    - healthcare integrations
+    - disaster response teams should be aware of where the people and how to best possibly help them
 - **[!!!]** **Lessons Learned**
   - **[!!!]** be lazy, automate everything that you can
     - Bill Gates said "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."
