@@ -53,7 +53,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - **[!!!]** human interaction
     - humans are the source of creativity and personality, and machines are their second greatest tool. The first being their mind and body.
 - **[!!!]** **What is Octoblu and how does it solve this problem**
-  - a platform, and network of services, designed to orchestrate devices and services
+  - a platform, and network of services, designed to orchestrate devices and communicate with applications
   - citrix CEO, Mark Templeton, calls us the Integration of Everything
   - **[!!!]** talking to devices is hard, and often point to point, we make it easy.
   - **[!!!]** our designer allows you to create a visual representation of flows
@@ -63,9 +63,9 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - flexibility
     - allows you build anything easily. From automated workflow to programing microcontrollers, drones and robots
   - community
-    - meshblu, M2M messaging platform
     - 80% of our platform is open source
     - we have roughly 240 open source repositories
+    - including Meshblu, our M2M messaging platform, it talks cross protocol, and is completely free
 - **[!!!]** **With the rise of machines how do humans communicate?**
 - **[!!!]** **How Twilio helps solve this problem**
   - with the rise of machines how do humans communicate?
