@@ -10,6 +10,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
 
 - **[!!!]** **What is the Internet of Things?**
   - devices, services and people working together to make the world better
+  - a network of physical and virtual things
   - **[!!!]** smart offices, cars, homes, wearables, and cities
     - some of the popular devices are:
     - hue light bulbs
@@ -22,10 +23,9 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - devices that know what you want before you want it
     - a few examples could be:
     - when you walk into a room, turn the hue lights on
-    - when the temperature becomes cold outside, adjust the thermostat, and send notify me
+    - when the temperature becomes cold outside, adjust the thermostat, and notify me
     - when you walk into the conference room, turn lights on, put my presentation on the screen, notify my late coworkers
     - when your vital signs are showing issues, schedule an appointment with your doctor or notify a response unit
-  - a network of physical and virtual things
   - automation
     - IoT is about making things more efficient and automation plays a huge roll in that
     - Webster Dictionary defines automation to be "the technique of making an apparatus, a process, or a system operate automatically"
