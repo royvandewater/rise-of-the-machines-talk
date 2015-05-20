@@ -35,13 +35,12 @@ An estimated 50 billion devices will be connected to the Internet over the next 
   - IoT, will be the next industrial revolution. Billions of dollars will be saved, trillions will be made.
 - **[!!!]** **Metrics**
   - **[!!!]** Today: 1.9B connected devices. 50B estimated by 2020.
-    - Ericsson President and CEO Hans Vestberg
     - only 5 years away
     - there will be 8x more internet connected devices than people in the world.
   - **[!!!]** By 2020, the IoT market value is predicted to be between $3T and $14T
     - says IoT analysts
     - whether you want it or not, it is coming
-  - **[!!!]** if IoT improved efficiency by %1, over $276B would be saved
+  - **[!!!]** if IoT improved efficiency by %1, over $276B would be saved over 15 years
 - **[!!!]** **How IoT affects business communication**
   - it is about the experience
   - **[!!!]** Robert Cannon, an internet law and policy expert, says “Everything that can be automated, will be automated.”
@@ -52,7 +51,7 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - event prediction
     - context aware systems
   - **[!!!]** human interaction
-    - humans are the source of creativity and personality, but machines can be a great tool
+    - humans are the source of creativity and personality, and machines are their second greatest tool. The first being their mind and body.
 - **[!!!]** **What is Octoblu and how does it solve this problem**
   - a platform, and network of services, designed to orchestrate devices and services
   - citrix CEO, Mark Templeton, calls us the Integration of Everything
