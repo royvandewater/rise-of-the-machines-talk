@@ -54,6 +54,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - humans are the source of creativity and personality, and machines are their second greatest tool. The first being their mind and body.
 - **[!!!]** **What is Octoblu and how does it solve this problem**
   - a platform, and network of services, designed to orchestrate devices and communicate with applications
+    - it does this by standardizing API interfaces and allowing you to visually create workflow
+  - unlike typical workflow, our platform opened up the world of physical devices
   - citrix CEO, Mark Templeton, calls us the Integration of Everything
   - **[!!!]** talking to devices is hard, and often point to point, we make it easy.
   - **[!!!]** our designer allows you to create a visual representation of flows
