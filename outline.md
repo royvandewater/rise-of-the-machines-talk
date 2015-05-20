@@ -70,9 +70,8 @@ An estimated 50 billion devices will be connected to the Internet over the next 
     - including Meshblu, our M2M messaging platform, it talks cross protocol, and is completely free
 - **[!!!]** **With the rise of machines how do humans communicate?**
 - **[!!!]** **How Twilio helps solve this problem**
-  - with the rise of machines how do humans communicate?
   - a simple and intelligent interface into communications such as sms, mms, and voice
-  - a practical implementation of simple support calls, notifications and two-way interactions that can be context aware and automated
+  - **[!!!]** a practical implementation of simple support calls, notifications and two-way interactions that can be context aware and automated
   - Twilio is a first class citizen in Octoblu, meaning integrations are seamless.
   - examples of support automation
     - when a customer responds badly
